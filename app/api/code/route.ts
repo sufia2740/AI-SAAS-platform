@@ -9,7 +9,7 @@ const openai = new OpenAI({
 });
 
 const instructionMessage: OpenAI.Chat.ChatCompletionMessage={
-  role: "system",
+  role: "assistant",
   content: "You are a code generator, You must answer only in mardown code snippets. Use code comments for explanations."
 }
 
