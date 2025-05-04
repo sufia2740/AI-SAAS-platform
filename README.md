@@ -11,7 +11,6 @@ https://github.com/user-attachments/assets/653514c0-90e1-452c-b231-e4f353c9125c
 - 🎥 Videos  
 
 Built with **Next.js 13**, **React**, **Tailwind CSS**, **Prisma**, **Clerk**, and **Stripe**, the platform integrates **OpenAI** and **Replicate AI** to deliver a seamless and scalable AI experience.
-https://github.com/user-attachments/assets/653514c0-90e1-452c-b231-e4f353c9125c
 ---
 
 ## 🚀 Features
